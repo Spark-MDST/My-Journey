@@ -1,0 +1,5 @@
+name = input('Hello, what is your name? ')
+print('Hi ' + name )
+weight_lbs = input('What is your weight in lbs? ')
+weight_kgs = print(('Alright ' + name) + 'It looks like your weight in kg is ')
+print(float(1 / 2.205) * int(weight_lbs))
